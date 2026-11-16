@@ -5,9 +5,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header" width="100%"/>
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-michelledelima-ff6ec7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/michelledelima)
-[![Repositório](https://img.shields.io/badge/Repositório-Web__portfolio.html-b388ff?style=for-the-badge&logo=git&logoColor=white)](https://github.com/michelledelima/Web_portfolio.html)
-[![GitHub Pages Status](https://img.shields.io/badge/Site-Online-ffd700?style=for-the-badge&logo=google-chrome&logoColor=black)](https://michelledelima.github.io/Web_portfolio.html/)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-michelledelima-ff6ec7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miteixeira23)
+[![Repositório](https://img.shields.io/badge/Repositório-Web__portfolio.html-b388ff?style=for-the-badge&logo=git&logoColor=white)](https://github.com/miteixeira23/Web_portfolio.html)
+[![GitHub Pages Status](https://img.shields.io/badge/Site-Online-ffd700?style=for-the-badge&logo=google-chrome&logoColor=black)](https://miteixeira23.github.io/Web_portfolio.html/)
 
 </div>
 
