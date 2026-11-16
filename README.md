@@ -3,7 +3,7 @@
 # ✨ Portfólio Pessoal • Michelle de Lima ✨
 ### *Desenvolvedora Web & Python • Soluções Digitais*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tecnologia%20%26%20Desenvolvimento&fontSize=28&fontColor=ffd700&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header" width="100%"/>
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-michelledelima-ff6ec7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/michelledelima)
 [![Repositório](https://img.shields.io/badge/Repositório-Web__portfolio.html-b388ff?style=for-the-badge&logo=git&logoColor=white)](https://github.com/michelledelima/Web_portfolio.html)
@@ -50,11 +50,11 @@ O portfólio destaca os seguintes repositórios desenvolvidos no GitHub:
 
 | Projeto | Descrição | Tecnologias | Link do Repositório |
 | :--- | :--- | :---: | :---: |
-| **Meus_favoritos-WEB** | Organização e estruturação de páginas web de favoritos. | HTML / CSS | [Acessar](https://github.com/michelledelima/Meus_favoritos-WEB) |
-| **Controle Água** | Script voltado para o monitoramento e controle de consumo de água. | Python | [Acessar](https://github.com/michelledelima/controle_agua) |
-| **Pesquisa de Atendimento** | Aplicação voltada à coleta e análise de feedback e satisfação (TudoWeb). | Python | [Acessar](https://github.com/michelledelima/Pesquisa-de-Atendimento-TudoWeb) |
-| **Desconto Progressivo** | Lógica computacional aplicando regras de cálculo de descontos. | Python | [Acessar](https://github.com/michelledelima/Programa-Desconto-Progressivo) |
-| **Consumo de Energia** | Calculadora de consumo elétrico para estimar gastos e potências. | Python | [Acessar](https://github.com/michelledelima/consumo-energia) |
+| **Meus_favoritos-WEB** | Organização e estruturação de páginas web de favoritos. | HTML / CSS | [Acessar](https://github.com/miteixeira23/Meus_favoritos-WEB) |
+| **Controle Água** | Script voltado para o monitoramento e controle de consumo de água. | Python | [Acessar](https://github.com/miteixeira23/controle_agua) |
+| **Pesquisa de Atendimento** | Aplicação voltada à coleta e análise de feedback e satisfação (TudoWeb). | Python | [Acessar](https://github.com/miteixeira23/Pesquisa-de-Atendimento-TudoWeb) |
+| **Desconto Progressivo** | Lógica computacional aplicando regras de cálculo de descontos. | Python | [Acessar](https://github.com/miteixeira23/Programa-Desconto-Progressivo) |
+| **Consumo de Energia** | Calculadora de consumo elétrico para estimar gastos e potências[cite: 1]. | Python | [Acessar](https://github.com/miteixeira23/consumo-energia) |
 
 ---
 
