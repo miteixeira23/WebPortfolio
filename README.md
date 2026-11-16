@@ -14,8 +14,8 @@
 ---
 
 ## 🔗 Links de Entrega
-* **Repositório no GitHub:** [https://github.com/michelledelima/Web_portfolio.html](https://github.com/michelledelima/Web_portfolio.html)
-* **Site Publicado (GitHub Pages):** [https://michelledelima.github.io/Web_portfolio.html/](https://michelledelima.github.io/Web_portfolio.html/)
+* **Repositório no GitHub:** [https://github.com/michelledelima/Web_portfolio.html](https://github.com/miteixeira23/Web_portfolio.html)
+* **Site Publicado (GitHub Pages):** [https://michelledelima.github.io/Web_portfolio.html/](https://miteixeira23.github.io/Web_portfolio.html/)
 
 ---
 
