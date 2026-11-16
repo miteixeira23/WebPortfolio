@@ -7,7 +7,7 @@
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-michelledelima-ff6ec7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miteixeira23)
 [![Repositório](https://img.shields.io/badge/Repositório-Web__portfolio.html-b388ff?style=for-the-badge&logo=git&logoColor=white)](https://github.com/miteixeira23/Web_portfolio.html)
-[![GitHub Pages Status](https://img.shields.io/badge/Site-Online-ffd700?style=for-the-badge&logo=google-chrome&logoColor=black)](https://miteixeira23.github.io/Web_portfolio.html/)
+[![GitHub Pages Status](https://img.shields.io/badge/Site-Online-ffd700?style=for-the-badge&logo=google-chrome&logoColor=black)]([https://miteixeira23.github.io/Web_portfolio.html](https://miteixeira23.github.io/WebPortfolio/)/)
 
 </div>
 
