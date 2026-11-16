@@ -14,8 +14,8 @@
 ---
 
 ## 🔗 Links de Entrega
-* **Repositório no GitHub:** [https://github.com/miteixeira23/Web_portfolio.html](https://github.com/miteixeira23/Web_portfolio.html)
-* **Site Publicado (GitHub Pages):** [https://miteixeira23.github.io/Web_portfolio.html/](https://miteixeira23.github.io/Web_portfolio.html/)
+* **Repositório no GitHub:** [https://github.com/miteixeira23/WebPortfolio](https://github.com/miteixeira23/WebPortfolio)
+* **Site Publicado (GitHub Pages):** [https://miteixeira23.github.io/WebPortfolio/](https://miteixeira23.github.io/WebPortfolio/)
 
 ---
 
